@@ -24,7 +24,7 @@ because from one integers configuration to another, the most efficient sorting s
 differ.
 <h3> The Rules</h3>
 <ul>
-  <li>There are 2 <a href="https://en.wikipedia.org/wiki/Stack_(abstract_data_type)">stacks named</a> <b>a</b> and <b>b</b></li>
+  <li>There are 2 <a href="https://en.wikipedia.org/wiki/Stack_(abstract_data_type)">stacks</a> named <b>a</b> and <b>b</b></li>
   <li>At the beginning:
     <ul>
       <li>The stack <b>a</b> contains a random amoutnt of negative and/or positive numbers which cannot be duplicated.</li>

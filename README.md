@@ -5,6 +5,7 @@ This project involves sorting data on a stack, with a limited set of instruction
   <img src="imgs/push_swap.gif" alt="Sorting a 100" style="width: 70%; flex: 1;">
   <img src="imgs/push_swap2.gif" alt="Sorting 500" style="width: 70%; flex: 1;">
 </div>
+<sub><i>(In those pictures, I am using this <a href="https://github.com/o-reo/push_swap_visualizer">visualizer</a>)</i></sub>
 
 # Description
 <sub><i>(subject is included in the root of the repo)</i></sub>  

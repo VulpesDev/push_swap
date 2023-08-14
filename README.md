@@ -14,7 +14,7 @@ The <b>Push swap project</b> is a very simple and a highly straightforward algor
 data must be sorted.  
 
 Writing a sorting algorithm is always a very important step in a developer’s journey. It
-is often the first encounter with the concept of <a href="https://en.wikipedia.org/wiki/Analysis_of_algorithms">complexity</a>.  
+is often the first encounter with the concept of <a href="https://en.wikipedia.org/wiki/Computational_complexity">complexity</a>.  
 
 The learning objectives of this project are rigor, use of C, and use of basic algorithms.  
 Especially focusing on their complexity.  
